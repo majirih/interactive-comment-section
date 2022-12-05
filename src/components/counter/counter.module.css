@@ -1,0 +1,15 @@
+
+.counter{
+    background-color:hsl(228, 33%, 97%) ;
+    margin:0;
+    width:fit-content;
+    border-radius: 15px;
+    padding: 5px 10px;
+    text-align: justify;
+    margin-right: 20px;
+}
+
+.score{
+    color:hsl(238, 40%, 52%);
+    font-weight: 700;
+}
