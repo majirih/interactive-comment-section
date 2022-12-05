@@ -1,0 +1,35 @@
+.chatBox {
+    display: flex;
+    background-color: hsl(0, 0%, 100%);
+    margin-top: 20px;
+    border-radius: 10px;
+    padding: 20px;
+    width: 100%;
+}
+
+.profilePicture {
+    width: 50px;
+    height: 50px;
+}
+
+.textArea {
+    flex: 1;
+    font-weight: 500;
+    margin: 0 10px;
+    font-size: 1rem;
+    border-color: hsl(228, 33%, 97%);
+    border-radius: 10px;
+    padding: 10px;
+    resize: none;
+}
+
+.sendButton {
+    background-color: hsl(238, 40%, 52%);
+    font-weight: 700;
+    font-size: 1em;
+    color: hsl(0, 0%, 100%);
+    border-radius: 10px;
+    border-style: none;
+    height: 50px;
+    padding: 0 30px;
+}
